@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/appcreator28/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/Users/appcreator28/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color/abc_search_url_text.xml"
-    },
-    {
         "merged": "/Users/appcreator28/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
         "source": "/Users/appcreator28/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/appcreator28/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/appcreator28/AndroidStudioProjects/Memory/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color/abc_search_url_text.xml"
     },
     {
         "merged": "/Users/appcreator28/AndroidStudioProjects/Memory/Application/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
